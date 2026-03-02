@@ -78,12 +78,6 @@ Models are evaluated using:
 
 ---
 
-##  Repository Files
 
-- `house_price_prediction.ipynb` → Main notebook  
-- `HousingData.csv` → Dataset (inside `house prediction/` folder)
 
----
-
-cd your-repo-name
 
